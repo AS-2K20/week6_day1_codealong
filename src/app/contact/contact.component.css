@@ -1,0 +1,41 @@
+.fifth_section{   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;    
+    height: 350pt;
+}
+
+.fifth_section h3{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 45%;
+    color: white;
+    font-size: x-large;
+}
+
+.fifth_section input{
+    width:25%;
+    height:5%;
+}
+
+#name_textbox{
+    margin-top: 10%;      
+}
+
+#send_msg{
+    width: 10%;
+    background-color: #F05338;
+    color: #EDEEF0;
+    outline: none;
+    border-width: 0;
+    height: 3em;
+}
+
+#send_msg:focus{
+    background-color: teal;
+    outline: none;
+}
+
+#send_msg:hover{
+    background-color: teal;
+}

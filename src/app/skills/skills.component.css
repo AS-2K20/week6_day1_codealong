@@ -1,0 +1,107 @@
+.fourth_section{    
+    background-color: #EDEEF0;
+    height: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 300px;
+}
+
+.fourth_section h3{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-top: 10%;  
+    margin-left: -60px;
+    margin-top: 25px;
+    font-weight: bolder;
+}
+
+.technical_skills h5{
+    margin-top: 5%;
+    margin-left: 16%;
+    font-weight: bold;
+    font-size: large;
+}
+
+#html_skill{
+    margin-top: 30px;
+    margin-left: 10%;
+}
+
+.progress_bar{
+    width: 25%;
+    margin-top:10px;
+    margin-left: 10%;
+}
+
+#css_skill{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+#jq_skill{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.languages h5{
+    margin-top: -326px;
+    margin-left: 70%;
+    font-weight: bold;
+    font-size: large;
+}
+
+#tamil_lang{  
+    margin-top: 35px;
+    margin-left: 62%;
+}
+
+.lang_progress_bar{
+    width: 25%;
+    margin-top: 14px;
+    margin-left: 62%;
+}
+
+#eng_lang{
+    margin-top: 16px;
+    margin-left: 62%;
+}
+
+.fifth_section{   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;    
+    height: 350pt;
+}
+
+.fifth_section h3{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 45%;
+    color: white;
+}
+
+.fifth_section input{
+    width:25%;
+}
+
+#name_textbox{
+    margin-top: 10%;      
+}
+
+#send_msg{
+    width: 10%;
+    background-color: #F05338;
+    color: #EDEEF0;
+    outline: none;
+    border-width: 0;
+}
+
+#send_msg:focus{
+    background-color: teal;
+    outline: none;
+}
+
+#send_msg:hover{
+    background-color: teal;
+}

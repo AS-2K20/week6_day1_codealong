@@ -1,0 +1,79 @@
+.second_section{    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;    
+    height: 300pt;
+    
+}
+
+.second_section p{  
+    color: #B4B3B4;
+    padding-top: 120pt;
+    padding-right: 42%; 
+   padding-bottom: 20px; 
+}
+
+.second_section h1{
+    color: white;
+    font-weight: normal;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.third_section{
+    background-color: #EDEEF0;
+    height: 450pt;
+    padding-top: 100pt;
+    padding-left: 100pt;
+}
+
+.profilepic{       
+    width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+    
+}
+
+.profilepic img{        
+    width: 100%;
+    height: auto;    
+}
+
+#myname{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    font-weight: bold;
+    font-size: x-large;
+    text-align:center;
+    padding-top: -300pt;
+    margin-top: -180pt;
+    margin-right: 300pt;
+}
+
+.caption_content p{   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding-top: 6px; 
+    padding-left: 420px;
+}
+
+#btn_resume_download{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EDEEF0 ;
+    background-color: #F05338;
+    outline: none;
+    height: 50px;
+    width: 200px;
+    border-color:#F05338 ; 
+    border-width: 0px;  
+    margin-left: 420px;       
+}
+
+#btn_resume_download:hover{
+    background-color: teal;
+    outline: none;
+}
+
+#btn_resume_download:focus{
+    background-color: teal;
+}

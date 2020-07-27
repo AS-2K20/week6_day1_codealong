@@ -1,0 +1,112 @@
+.bg_image img{
+    height: 500px;
+    width:1518px;         
+}
+
+.portfolio h3{   
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    margin-top: -350pt;
+}
+
+.portfolio p{
+    color: #EDEEF0;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;        
+}
+
+.portfolio h3{   
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    margin-top: -350pt;
+}
+
+.portfolio p{
+    color: #EDEEF0;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;        
+}
+
+hr.under_line{
+    position:absolute;    
+    border-top: 3px solid #EDEEF0;
+    text-align: center;
+    border-width: 1px;
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 35%;
+}
+
+.div_1{
+    position: absolute;
+    background-color: white;
+    height: 180px;
+    width: 250px;
+    margin-top: 7%;
+    margin-left: 25%;
+    border-radius: 10pt;
+}
+
+.div_2{
+    position: absolute;
+    background-color: white;
+    height: 180px;
+    width: 250px;
+    margin-top: 7%;
+    margin-left: 58%;
+    border-radius: 10pt;
+}
+.code_icon1{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 42%;
+    height: 40px;
+    width: 40px;
+}
+
+.code_icon2{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 40px;
+    width: 40px;
+}
+
+
+.div1_heading{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 25%;
+    margin-left: 21%;
+    font-size: medium;
+}
+
+.div2_heading{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin-top: 25%;
+    margin-left: 21%;
+}
+
+.div_1 p{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin-top: 40%;
+    margin-left: 18%;
+}
+
+.div_2 p{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin-top: 40%;
+    margin-left: 21%
+}
